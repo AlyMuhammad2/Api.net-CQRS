@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "E2pwyF9MHqfNID2B9AUgNd7dVes1Jr8zi8gAYahCYIY=",
+  "Source": "TaskCQRS",
+  "BasePath": "_content/TaskCQRS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

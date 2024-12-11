@@ -1,0 +1,17 @@
+C:\Users\Windows\Desktop\Task\TaskCQRS\Infrastructue\bin\Debug\net8.0\Infrastructue.deps.json
+C:\Users\Windows\Desktop\Task\TaskCQRS\Infrastructue\bin\Debug\net8.0\Infrastructue.runtimeconfig.json
+C:\Users\Windows\Desktop\Task\TaskCQRS\Infrastructue\bin\Debug\net8.0\Infrastructue.dll
+C:\Users\Windows\Desktop\Task\TaskCQRS\Infrastructue\bin\Debug\net8.0\Infrastructue.pdb
+C:\Users\Windows\Desktop\Task\TaskCQRS\Infrastructue\bin\Debug\net8.0\Domain.dll
+C:\Users\Windows\Desktop\Task\TaskCQRS\Infrastructue\bin\Debug\net8.0\Domain.pdb
+C:\Users\Windows\Desktop\Task\TaskCQRS\Infrastructue\obj\Debug\net8.0\Infrastructue.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Task\TaskCQRS\Infrastructue\obj\Debug\net8.0\Infrastructue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\Task\TaskCQRS\Infrastructue\obj\Debug\net8.0\Infrastructue.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\Task\TaskCQRS\Infrastructue\obj\Debug\net8.0\Infrastructue.AssemblyInfo.cs
+C:\Users\Windows\Desktop\Task\TaskCQRS\Infrastructue\obj\Debug\net8.0\Infrastructue.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Task\TaskCQRS\Infrastructue\obj\Debug\net8.0\Infrastr.BD9CB9AB.Up2Date
+C:\Users\Windows\Desktop\Task\TaskCQRS\Infrastructue\obj\Debug\net8.0\Infrastructue.dll
+C:\Users\Windows\Desktop\Task\TaskCQRS\Infrastructue\obj\Debug\net8.0\refint\Infrastructue.dll
+C:\Users\Windows\Desktop\Task\TaskCQRS\Infrastructue\obj\Debug\net8.0\Infrastructue.pdb
+C:\Users\Windows\Desktop\Task\TaskCQRS\Infrastructue\obj\Debug\net8.0\Infrastructue.genruntimeconfig.cache
+C:\Users\Windows\Desktop\Task\TaskCQRS\Infrastructue\obj\Debug\net8.0\ref\Infrastructue.dll

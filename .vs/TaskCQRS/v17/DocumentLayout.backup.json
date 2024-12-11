@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB16209-3A36-4D37-AEAC-8626D6D17D9E}|TaskCQRS\\TaskCQRS.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\taskcqrs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB16209-3A36-4D37-AEAC-8626D6D17D9E}|TaskCQRS\\TaskCQRS.csproj|solutionrelative:taskcqrs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB16209-3A36-4D37-AEAC-8626D6D17D9E}|TaskCQRS\\TaskCQRS.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\taskcqrs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFB16209-3A36-4D37-AEAC-8626D6D17D9E}|TaskCQRS\\TaskCQRS.csproj|solutionrelative:taskcqrs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B05EC86-ED0F-4A00-B711-812D92C0F2EB}|Applications\\Applications.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\applications\\commands\\products\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B05EC86-ED0F-4A00-B711-812D92C0F2EB}|Applications\\Applications.csproj|solutionrelative:applications\\commands\\products\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B05EC86-ED0F-4A00-B711-812D92C0F2EB}|Applications\\Applications.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\applications\\commands\\products\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B05EC86-ED0F-4A00-B711-812D92C0F2EB}|Applications\\Applications.csproj|solutionrelative:applications\\commands\\products\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837EB5A3-2631-46B2-98D6-C2CF2E379ADB}|Infrastructue\\Infrastructue.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\infrastructue\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837EB5A3-2631-46B2-98D6-C2CF2E379ADB}|Infrastructue\\Infrastructue.csproj|solutionrelative:infrastructue\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB16209-3A36-4D37-AEAC-8626D6D17D9E}|TaskCQRS\\TaskCQRS.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\taskcqrs\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB16209-3A36-4D37-AEAC-8626D6D17D9E}|TaskCQRS\\TaskCQRS.csproj|solutionrelative:taskcqrs\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B05EC86-ED0F-4A00-B711-812D92C0F2EB}|Applications\\Applications.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\applications\\commands\\auth\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B05EC86-ED0F-4A00-B711-812D92C0F2EB}|Applications\\Applications.csproj|solutionrelative:applications\\commands\\auth\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465D66B1-CBBD-45B2-80F7-EE6CDFF3FC69}|Shared\\Shared.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\shared\\dtos\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465D66B1-CBBD-45B2-80F7-EE6CDFF3FC69}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB16209-3A36-4D37-AEAC-8626D6D17D9E}|TaskCQRS\\TaskCQRS.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\taskcqrs\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB16209-3A36-4D37-AEAC-8626D6D17D9E}|TaskCQRS\\TaskCQRS.csproj|solutionrelative:taskcqrs\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465D66B1-CBBD-45B2-80F7-EE6CDFF3FC69}|Shared\\Shared.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\shared\\dtos\\warehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465D66B1-CBBD-45B2-80F7-EE6CDFF3FC69}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\warehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465D66B1-CBBD-45B2-80F7-EE6CDFF3FC69}|Shared\\Shared.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\shared\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465D66B1-CBBD-45B2-80F7-EE6CDFF3FC69}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465D66B1-CBBD-45B2-80F7-EE6CDFF3FC69}|Shared\\Shared.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\shared\\dtos\\productlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465D66B1-CBBD-45B2-80F7-EE6CDFF3FC69}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\productlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{465D66B1-CBBD-45B2-80F7-EE6CDFF3FC69}|Shared\\Shared.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\shared\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465D66B1-CBBD-45B2-80F7-EE6CDFF3FC69}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB16209-3A36-4D37-AEAC-8626D6D17D9E}|TaskCQRS\\TaskCQRS.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\taskcqrs\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB16209-3A36-4D37-AEAC-8626D6D17D9E}|TaskCQRS\\TaskCQRS.csproj|solutionrelative:taskcqrs\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB16209-3A36-4D37-AEAC-8626D6D17D9E}|TaskCQRS\\TaskCQRS.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\taskcqrs\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB16209-3A36-4D37-AEAC-8626D6D17D9E}|TaskCQRS\\TaskCQRS.csproj|solutionrelative:taskcqrs\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B05EC86-ED0F-4A00-B711-812D92C0F2EB}|Applications\\Applications.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\applications\\commands\\inventory\\removestockcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B05EC86-ED0F-4A00-B711-812D92C0F2EB}|Applications\\Applications.csproj|solutionrelative:applications\\commands\\inventory\\removestockcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B05EC86-ED0F-4A00-B711-812D92C0F2EB}|Applications\\Applications.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\applications\\commands\\inventory\\removestockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B05EC86-ED0F-4A00-B711-812D92C0F2EB}|Applications\\Applications.csproj|solutionrelative:applications\\commands\\inventory\\removestockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B05EC86-ED0F-4A00-B711-812D92C0F2EB}|Applications\\Applications.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\applications\\commands\\inventory\\addstockcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B05EC86-ED0F-4A00-B711-812D92C0F2EB}|Applications\\Applications.csproj|solutionrelative:applications\\commands\\inventory\\addstockcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B05EC86-ED0F-4A00-B711-812D92C0F2EB}|Applications\\Applications.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\applications\\commands\\inventory\\addstockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B05EC86-ED0F-4A00-B711-812D92C0F2EB}|Applications\\Applications.csproj|solutionrelative:applications\\commands\\inventory\\addstockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B05EC86-ED0F-4A00-B711-812D92C0F2EB}|Applications\\Applications.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\applications\\commands\\inventory\\transferstockcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B05EC86-ED0F-4A00-B711-812D92C0F2EB}|Applications\\Applications.csproj|solutionrelative:applications\\commands\\inventory\\transferstockcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B05EC86-ED0F-4A00-B711-812D92C0F2EB}|Applications\\Applications.csproj|c:\\users\\windows\\desktop\\task\\taskcqrs\\applications\\commands\\inventory\\transferstockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B05EC86-ED0F-4A00-B711-812D92C0F2EB}|Applications\\Applications.csproj|solutionrelative:applications\\commands\\inventory\\transferstockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\TaskCQRS\\Program.cs",
+              "RelativeDocumentMoniker": "TaskCQRS\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\TaskCQRS\\Program.cs",
+              "RelativeToolTip": "TaskCQRS\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAaGZmZmYKwFYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:51:18.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\TaskCQRS\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskCQRS\\appsettings.json",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\TaskCQRS\\appsettings.json",
+              "RelativeToolTip": "TaskCQRS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T15:50:19.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Applications\\Commands\\Products\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Applications\\Commands\\Products\\UpdateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Applications\\Commands\\Products\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "Applications\\Commands\\Products\\UpdateProductCommandHandler.cs",
+              "ViewState": "AgIAABQAAABALTMzMzMrwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:38:46.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Applications\\Commands\\Products\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "Applications\\Commands\\Products\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Applications\\Commands\\Products\\UpdateProductCommand.cs",
+              "RelativeToolTip": "Applications\\Commands\\Products\\UpdateProductCommand.cs",
+              "ViewState": "AgIAAAAAAABAZmZmZmYkwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:38:42.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Infrastructue\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructue\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Infrastructue\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructue\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAADAKzMzMzMbwC8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:25:18.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\TaskCQRS\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskCQRS\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\TaskCQRS\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskCQRS\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:24:15.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Applications\\Commands\\Auth\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "Applications\\Commands\\Auth\\RegisterUserCommand.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Applications\\Commands\\Auth\\RegisterUserCommand.cs",
+              "RelativeToolTip": "Applications\\Commands\\Auth\\RegisterUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:00:16.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WarehouseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Shared\\Dtos\\WarehouseDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dtos\\WarehouseDto.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Shared\\Dtos\\WarehouseDto.cs",
+              "RelativeToolTip": "Shared\\Dtos\\WarehouseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:56:19.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Shared\\Dtos\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dtos\\TransactionDto.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Shared\\Dtos\\TransactionDto.cs",
+              "RelativeToolTip": "Shared\\Dtos\\TransactionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:56:12.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Shared\\Dtos\\AddProductDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dtos\\AddProductDto.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Shared\\Dtos\\AddProductDto.cs",
+              "RelativeToolTip": "Shared\\Dtos\\AddProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:56:02.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Shared\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Shared\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "Shared\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:55:56.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductListDto.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Shared\\Dtos\\ProductListDto.cs",
+              "RelativeDocumentMoniker": "Shared\\Dtos\\ProductListDto.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Shared\\Dtos\\ProductListDto.cs",
+              "RelativeToolTip": "Shared\\Dtos\\ProductListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:55:57.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\TaskCQRS\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TaskCQRS\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\TaskCQRS\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TaskCQRS\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB4AAACAY2ZmZmYkwDQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:37:41.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RemoveStockCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Applications\\Commands\\Inventory\\RemoveStockCommand.cs",
+              "RelativeDocumentMoniker": "Applications\\Commands\\Inventory\\RemoveStockCommand.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Applications\\Commands\\Inventory\\RemoveStockCommand.cs",
+              "RelativeToolTip": "Applications\\Commands\\Inventory\\RemoveStockCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:42:16.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\TaskCQRS\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "TaskCQRS\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\TaskCQRS\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "TaskCQRS\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAEcAAACAMjMzMzMrwEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:40:51.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\TaskCQRS\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "TaskCQRS\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\TaskCQRS\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "TaskCQRS\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAMAAAB0/////39JwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:40:50.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddStockCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Applications\\Commands\\Inventory\\AddStockCommandHandler.cs",
+              "RelativeDocumentMoniker": "Applications\\Commands\\Inventory\\AddStockCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Applications\\Commands\\Inventory\\AddStockCommandHandler.cs",
+              "RelativeToolTip": "Applications\\Commands\\Inventory\\AddStockCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:24:23.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddStockCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Applications\\Commands\\Inventory\\AddStockCommand.cs",
+              "RelativeDocumentMoniker": "Applications\\Commands\\Inventory\\AddStockCommand.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Applications\\Commands\\Inventory\\AddStockCommand.cs",
+              "RelativeToolTip": "Applications\\Commands\\Inventory\\AddStockCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:24:21.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RemoveStockCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Applications\\Commands\\Inventory\\RemoveStockCommandHandler.cs",
+              "RelativeDocumentMoniker": "Applications\\Commands\\Inventory\\RemoveStockCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Applications\\Commands\\Inventory\\RemoveStockCommandHandler.cs",
+              "RelativeToolTip": "Applications\\Commands\\Inventory\\RemoveStockCommandHandler.cs",
+              "ViewState": "AgIAAA0AAACQY2ZmZqYowDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:24:26.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TransferStockCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Applications\\Commands\\Inventory\\TransferStockCommandHandler.cs",
+              "RelativeDocumentMoniker": "Applications\\Commands\\Inventory\\TransferStockCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Applications\\Commands\\Inventory\\TransferStockCommandHandler.cs",
+              "RelativeToolTip": "Applications\\Commands\\Inventory\\TransferStockCommandHandler.cs",
+              "ViewState": "AgIAABcAAABglpmZmVkuwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:25:13.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TransferStockCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Applications\\Commands\\Inventory\\TransferStockCommand.cs",
+              "RelativeDocumentMoniker": "Applications\\Commands\\Inventory\\TransferStockCommand.cs",
+              "ToolTip": "C:\\Users\\Windows\\Desktop\\Task\\TaskCQRS\\Applications\\Commands\\Inventory\\TransferStockCommand.cs",
+              "RelativeToolTip": "Applications\\Commands\\Inventory\\TransferStockCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:25:14.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
